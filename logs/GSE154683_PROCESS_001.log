@@ -1,0 +1,1057 @@
+[1] "*********************************************************************"
+[1] "Pessoas no lote"
+ [1] 801 802 803 804 805 806 807 808 809 810 811 812 813 814 815 816 817 818 819 820 821 822 823 824 825 826 827 828 829 830 831 832 833 834 835 836 837 838 839 840 841 842 843 844 845 846 847 848 849 850
+ id    geoid          id_dataset  id_pessoa AGE  GENDER HEART_DISEASE OUTPATIENT_SURGERIES RACE               GENOTYPE                        red_idat_fname                               green_idat_fname                            
+ "801" "GSM4677113_1" "GSE154683" "801"     "61" "M"    "1"           "1"                  "African American" "carrier of Val122Ile mutation" "GSM4677113_203135920013_R01C01_Red.idat.gz" "GSM4677113_203135920013_R01C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "802" "GSM4677114_1" "GSE154683" "802" "74" "M" "0" "0" "African American" "carrier of Val122Ile mutation" "GSM4677114_203135920013_R02C01_Red.idat.gz" "GSM4677114_203135920013_R02C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "803" "GSM4677115_1" "GSE154683" "803" "56" "M" "0" "0" "African American" "carrier of Val122Ile mutation" "GSM4677115_203135920013_R05C01_Red.idat.gz" "GSM4677115_203135920013_R05C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "804" "GSM4677116_1" "GSE154683" "804" "55" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677116_203135920013_R06C01_Red.idat.gz" "GSM4677116_203135920013_R06C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "805" "GSM4677117_1" "GSE154683" "805" "52" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677117_203135920013_R07C01_Red.idat.gz" "GSM4677117_203135920013_R07C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "806" "GSM4677118_1" "GSE154683" "806" "51" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677118_203135920013_R08C01_Red.idat.gz" "GSM4677118_203135920013_R08C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "807" "GSM4677119_1" "GSE154683" "807" "51" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677119_203135920021_R01C01_Red.idat.gz" "GSM4677119_203135920021_R01C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "808" "GSM4677120_1" "GSE154683" "808" "51" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677120_203135920021_R02C01_Red.idat.gz" "GSM4677120_203135920021_R02C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "809" "GSM4677121_1" "GSE154683" "809" "51" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677121_203135920021_R03C01_Red.idat.gz" "GSM4677121_203135920021_R03C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "810" "GSM4677122_1" "GSE154683" "810" "50" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677122_203135920021_R04C01_Red.idat.gz" "GSM4677122_203135920021_R04C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "811" "GSM4677123_1" "GSE154683" "811" "50" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677123_203135920021_R05C01_Red.idat.gz" "GSM4677123_203135920021_R05C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "812" "GSM4677124_1" "GSE154683" "812" "49" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677124_203135920021_R07C01_Red.idat.gz" "GSM4677124_203135920021_R07C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "813" "GSM4677125_1" "GSE154683" "813" "49" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677125_203135920021_R08C01_Red.idat.gz" "GSM4677125_203135920021_R08C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "814" "GSM4677126_1" "GSE154683" "814" "49" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677126_203127070028_R01C01_Red.idat.gz" "GSM4677126_203127070028_R01C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "815" "GSM4677127_1" "GSE154683" "815" "48" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677127_203127070028_R02C01_Red.idat.gz" "GSM4677127_203127070028_R02C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "816" "GSM4677128_1" "GSE154683" "816" "47" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677128_203127070028_R03C01_Red.idat.gz" "GSM4677128_203127070028_R03C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "817" "GSM4677129_1" "GSE154683" "817" "47" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677129_203127070028_R04C01_Red.idat.gz" "GSM4677129_203127070028_R04C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "818" "GSM4677130_1" "GSE154683" "818" "46" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677130_203127070028_R05C01_Red.idat.gz" "GSM4677130_203127070028_R05C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "819" "GSM4677131_1" "GSE154683" "819" "45" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677131_203127070028_R08C01_Red.idat.gz" "GSM4677131_203127070028_R08C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "820" "GSM4677132_1" "GSE154683" "820" "43" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677132_203127070029_R02C01_Red.idat.gz" "GSM4677132_203127070029_R02C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "821" "GSM4677133_1" "GSE154683" "821" "43" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677133_203127070029_R03C01_Red.idat.gz" "GSM4677133_203127070029_R03C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "822" "GSM4677134_1" "GSE154683" "822" "43" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677134_203127070029_R04C01_Red.idat.gz" "GSM4677134_203127070029_R04C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "823" "GSM4677135_1" "GSE154683" "823" "42" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677135_203127070029_R05C01_Red.idat.gz" "GSM4677135_203127070029_R05C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "824" "GSM4677136_1" "GSE154683" "824" "42" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677136_203127070029_R06C01_Red.idat.gz" "GSM4677136_203127070029_R06C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "825" "GSM4677137_1" "GSE154683" "825" "42" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677137_203127070029_R07C01_Red.idat.gz" "GSM4677137_203127070029_R07C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "826" "GSM4677138_1" "GSE154683" "826" "40" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677138_203127070029_R08C01_Red.idat.gz" "GSM4677138_203127070029_R08C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "827" "GSM4677139_1" "GSE154683" "827" "40" "M" "0" "0" "African American" "carrier of Val122Ile mutation" "GSM4677139_203127070030_R01C01_Red.idat.gz" "GSM4677139_203127070030_R01C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "828" "GSM4677140_1" "GSE154683" "828" "40" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677140_203127070030_R02C01_Red.idat.gz" "GSM4677140_203127070030_R02C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "829" "GSM4677141_1" "GSE154683" "829" "39" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677141_203127070030_R03C01_Red.idat.gz" "GSM4677141_203127070030_R03C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "830" "GSM4677142_1" "GSE154683" "830" "39" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677142_203127070030_R04C01_Red.idat.gz" "GSM4677142_203127070030_R04C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "831" "GSM4677143_1" "GSE154683" "831" "38" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677143_203127070030_R06C01_Red.idat.gz" "GSM4677143_203127070030_R06C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "832" "GSM4677144_1" "GSE154683" "832" "38" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677144_203127070030_R07C01_Red.idat.gz" "GSM4677144_203127070030_R07C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "833" "GSM4677145_1" "GSE154683" "833" "38" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677145_203127070030_R08C01_Red.idat.gz" "GSM4677145_203127070030_R08C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "834" "GSM4677146_1" "GSE154683" "834" "37" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677146_203135920038_R02C01_Red.idat.gz" "GSM4677146_203135920038_R02C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "835" "GSM4677147_1" "GSE154683" "835" "37" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677147_203135920038_R03C01_Red.idat.gz" "GSM4677147_203135920038_R03C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "836" "GSM4677148_1" "GSE154683" "836" "34" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677148_203135920038_R06C01_Red.idat.gz" "GSM4677148_203135920038_R06C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "837" "GSM4677149_1" "GSE154683" "837" "34" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677149_203135920038_R07C01_Red.idat.gz" "GSM4677149_203135920038_R07C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "838" "GSM4677150_1" "GSE154683" "838" "31" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677150_203135920038_R08C01_Red.idat.gz" "GSM4677150_203135920038_R08C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "839" "GSM4677151_1" "GSE154683" "839" "30" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677151_203127070052_R01C01_Red.idat.gz" "GSM4677151_203127070052_R01C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "840" "GSM4677152_1" "GSE154683" "840" "30" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677152_203127070052_R02C01_Red.idat.gz" "GSM4677152_203127070052_R02C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "841" "GSM4677153_1" "GSE154683" "841" "30" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677153_203127070052_R03C01_Red.idat.gz" "GSM4677153_203127070052_R03C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "842" "GSM4677154_1" "GSE154683" "842" "29" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677154_203127070052_R05C01_Red.idat.gz" "GSM4677154_203127070052_R05C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "843" "GSM4677155_1" "GSE154683" "843" "25" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677155_203127070052_R06C01_Red.idat.gz" "GSM4677155_203127070052_R06C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "844" "GSM4677156_1" "GSE154683" "844" "21" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677156_203127070052_R08C01_Red.idat.gz" "GSM4677156_203127070052_R08C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "845" "GSM4677157_1" "GSE154683" "845" "20" "M" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677157_203127070053_R01C01_Red.idat.gz" "GSM4677157_203127070053_R01C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "846" "GSM4677158_1" "GSE154683" "846" "59" "F" "0" "0" "African American" "carrier of Val122Ile mutation" "GSM4677158_203127070053_R02C01_Red.idat.gz" "GSM4677158_203127070053_R02C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "847" "GSM4677159_1" "GSE154683" "847" "48" "F" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677159_203127070053_R03C01_Red.idat.gz" "GSM4677159_203127070053_R03C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "848" "GSM4677160_1" "GSE154683" "848" "41" "F" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677160_203127070053_R04C01_Red.idat.gz" "GSM4677160_203127070053_R04C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "849" "GSM4677161_1" "GSE154683" "849" "34" "F" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677161_203127070053_R05C01_Red.idat.gz" "GSM4677161_203127070053_R05C01_Grn.idat.gz"
+                                                                                                                                                                                                     
+ "850" "GSM4677162_1" "GSE154683" "850" "57" "F" "1" "1" "African American" "carrier of Val122Ile mutation" "GSM4677162_203127070053_R06C01_Red.idat.gz" "GSM4677162_203127070053_R06C01_Grn.idat.gz"
+[1] "*********************************************************************"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01182984
+[1] 0.01166853
+[1] 0.01147108
+[1] 0.01106029
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.009873639
+[1] 0.006208554
+[1] 0.004927587
+[1] 0.004369707
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677113_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01091896
+[1] 0.01111482
+[1] 0.01098501
+[1] 0.01056926
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.008496205
+[1] 0.005626118
+[1] 0.004659792
+[1] 0.004214187
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677114_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01756186
+[1] 0.01748791
+[1] 0.01647857
+[1] 0.01515516
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01156555
+[1] 0.01052848
+[1] 0.009781414
+[1] 0.008945983
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677115_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.009557221
+[1] 0.01008805
+[1] 0.009907652
+[1] 0.009366508
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01191416
+[1] 0.008201442
+[1] 0.006918658
+[1] 0.006307202
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677116_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01308427
+[1] 0.01203661
+[1] 0.0113396
+[1] 0.0106137
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.00990466
+[1] 0.007123333
+[1] 0.006226173
+[1] 0.005794292
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677117_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01422399
+[1] 0.01431039
+[1] 0.01356978
+[1] 0.01252705
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.007689367
+[1] 0.006408817
+[1] 0.006035153
+[1] 0.005747085
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677118_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01546301
+[1] 0.01626886
+[1] 0.01598708
+[1] 0.01519683
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.009141099
+[1] 0.006490568
+[1] 0.005615484
+[1] 0.005180314
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677119_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01293655
+[1] 0.01413656
+[1] 0.01383416
+[1] 0.01296864
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.007730724
+[1] 0.005820568
+[1] 0.005186523
+[1] 0.004799485
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677120_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01795987
+[1] 0.01859581
+[1] 0.01765816
+[1] 0.01623042
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.008461727
+[1] 0.007284549
+[1] 0.006842014
+[1] 0.006440378
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677121_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01537513
+[1] 0.01535498
+[1] 0.01448485
+[1] 0.01330943
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.009422407
+[1] 0.007922945
+[1] 0.007302984
+[1] 0.006803186
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677122_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01428466
+[1] 0.01446188
+[1] 0.01378897
+[1] 0.01280197
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01260753
+[1] 0.01047801
+[1] 0.00950245
+[1] 0.008684273
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677123_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01567376
+[1] 0.01556756
+[1] 0.01468117
+[1] 0.01355358
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01145452
+[1] 0.009045182
+[1] 0.008113247
+[1] 0.007474232
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677124_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01537063
+[1] 0.0153788
+[1] 0.01427808
+[1] 0.0129646
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.008937298
+[1] 0.006855994
+[1] 0.006231124
+[1] 0.005859003
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677125_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01104799
+[1] 0.01264926
+[1] 0.01281422
+[1] 0.01230264
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006446873
+[1] 0.004920887
+[1] 0.004482109
+[1] 0.004246832
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677126_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01462355
+[1] 0.01479629
+[1] 0.01413342
+[1] 0.01312844
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01010536
+[1] 0.008094634
+[1] 0.007326632
+[1] 0.006796511
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677127_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01085521
+[1] 0.01161037
+[1] 0.01120212
+[1] 0.0103617
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.008463535
+[1] 0.00618977
+[1] 0.005518516
+[1] 0.005212636
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677128_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01327458
+[1] 0.01346921
+[1] 0.01322947
+[1] 0.01268984
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.007505424
+[1] 0.004347272
+[1] 0.003367686
+[1] 0.002990222
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677129_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01611641
+[1] 0.01614535
+[1] 0.01514237
+[1] 0.01380893
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.008100772
+[1] 0.006833151
+[1] 0.006430467
+[1] 0.006105833
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677130_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01288902
+[1] 0.01350359
+[1] 0.01248109
+[1] 0.01110064
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01059968
+[1] 0.007778991
+[1] 0.006837599
+[1] 0.006300583
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677131_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01431401
+[1] 0.0150789
+[1] 0.01452568
+[1] 0.01356209
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.008945513
+[1] 0.00692492
+[1] 0.006265367
+[1] 0.005870577
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677132_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01910146
+[1] 0.0188266
+[1] 0.01744424
+[1] 0.01580199
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01382219
+[1] 0.01270912
+[1] 0.01175442
+[1] 0.01069362
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677133_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01819483
+[1] 0.01811945
+[1] 0.01679849
+[1] 0.01515989
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.009438025
+[1] 0.007983278
+[1] 0.007344725
+[1] 0.006767725
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677134_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01324399
+[1] 0.0136084
+[1] 0.01300668
+[1] 0.01208439
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01182594
+[1] 0.008921008
+[1] 0.00779243
+[1] 0.007109725
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677135_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01262534
+[1] 0.01288575
+[1] 0.01237832
+[1] 0.01156848
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01107773
+[1] 0.00882621
+[1] 0.007988188
+[1] 0.007316494
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677136_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01271969
+[1] 0.01313118
+[1] 0.01247366
+[1] 0.01148441
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01086015
+[1] 0.008530426
+[1] 0.00753317
+[1] 0.006390941
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677137_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01319853
+[1] 0.01368749
+[1] 0.01284739
+[1] 0.01166085
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01211256
+[1] 0.009377567
+[1] 0.008354526
+[1] 0.007702002
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677138_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01380975
+[1] 0.01495391
+[1] 0.01462354
+[1] 0.01366017
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01017962
+[1] 0.007044481
+[1] 0.005963968
+[1] 0.005420439
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677139_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01553305
+[1] 0.01614141
+[1] 0.0156585
+[1] 0.01472771
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01049058
+[1] 0.01004816
+[1] 0.009939844
+[1] 0.009544868
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677140_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01537418
+[1] 0.01534995
+[1] 0.01458957
+[1] 0.0136635
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01068562
+[1] 0.0098682
+[1] 0.009589172
+[1] 0.009130055
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677141_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01560694
+[1] 0.01562719
+[1] 0.01475788
+[1] 0.01360137
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01116312
+[1] 0.008770753
+[1] 0.007855784
+[1] 0.007270638
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677142_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01648558
+[1] 0.01644416
+[1] 0.01600044
+[1] 0.01523596
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.00745435
+[1] 0.005508854
+[1] 0.004950794
+[1] 0.004657707
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677143_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01882094
+[1] 0.01918652
+[1] 0.01812993
+[1] 0.01663917
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01050234
+[1] 0.008910107
+[1] 0.008241527
+[1] 0.007631943
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677144_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01989899
+[1] 0.0191158
+[1] 0.01724392
+[1] 0.01524246
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01234099
+[1] 0.01005219
+[1] 0.009069504
+[1] 0.008297376
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677145_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01170157
+[1] 0.01212994
+[1] 0.01175651
+[1] 0.01101771
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.009021721
+[1] 0.0063766
+[1] 0.005579899
+[1] 0.005209763
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677146_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01264272
+[1] 0.01324354
+[1] 0.01306964
+[1] 0.01251157
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006735263
+[1] 0.004541403
+[1] 0.00387801
+[1] 0.003571038
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677147_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01240288
+[1] 0.01235249
+[1] 0.0116477
+[1] 0.01073272
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.009097597
+[1] 0.006986818
+[1] 0.006294745
+[1] 0.005901353
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677148_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01758374
+[1] 0.01716299
+[1] 0.01564175
+[1] 0.01394231
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.009893311
+[1] 0.008061587
+[1] 0.007316752
+[1] 0.006718519
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677149_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01570197
+[1] 0.01497252
+[1] 0.01358093
+[1] 0.01204916
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01186157
+[1] 0.00876067
+[1] 0.007601708
+[1] 0.006935935
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677150_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01282596
+[1] 0.01380375
+[1] 0.01356176
+[1] 0.01283437
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.009713053
+[1] 0.006442375
+[1] 0.005373732
+[1] 0.004904049
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677151_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01322701
+[1] 0.01426511
+[1] 0.01401309
+[1] 0.01322548
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.009993738
+[1] 0.006831454
+[1] 0.005760949
+[1] 0.00524582
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677152_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.02051104
+[1] 0.02006328
+[1] 0.01847394
+[1] 0.01657477
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01082283
+[1] 0.009444233
+[1] 0.008838589
+[1] 0.008246534
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677153_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01472871
+[1] 0.01468039
+[1] 0.01376945
+[1] 0.01258175
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.0107468
+[1] 0.007776724
+[1] 0.006730419
+[1] 0.00615788
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677154_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01875081
+[1] 0.01846543
+[1] 0.01712735
+[1] 0.01555789
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.008367767
+[1] 0.006993526
+[1] 0.006515725
+[1] 0.006088713
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677155_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01555769
+[1] 0.01554092
+[1] 0.01418739
+[1] 0.01259372
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01352713
+[1] 0.01087041
+[1] 0.009557184
+[1] 0.008274951
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677156_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01461953
+[1] 0.01523286
+[1] 0.01424869
+[1] 0.01286863
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01239108
+[1] 0.009210476
+[1] 0.008106535
+[1] 0.007466261
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677157_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01296178
+[1] 0.01359639
+[1] 0.0131166
+[1] 0.0122394
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006698148
+[1] 0.005688805
+[1] 0.005251483
+[1] 0.004826902
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677158_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01419001
+[1] 0.01382085
+[1] 0.01347683
+[1] 0.01294335
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.009282293
+[1] 0.006655497
+[1] 0.00576948
+[1] 0.00529957
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677159_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01094241
+[1] 0.01125408
+[1] 0.01068735
+[1] 0.009827957
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01113805
+[1] 0.008296405
+[1] 0.007316269
+[1] 0.00677675
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677160_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01498646
+[1] 0.01446644
+[1] 0.01330316
+[1] 0.01200944
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01278311
+[1] 0.01078544
+[1] 0.009821114
+[1] 0.009057658
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677161_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01487511
+[1] 0.01350886
+[1] 0.01275359
+[1] 0.01205124
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006915816
+[1] 0.006061384
+[1] 0.005703453
+[1] 0.005351431
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM4677162_1"
+NULL
+[[1]]
+NULL
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[[11]]
+NULL
+
+[[12]]
+NULL
+
+[[13]]
+NULL
+
+[[14]]
+NULL
+
+[[15]]
+NULL
+
+[[16]]
+NULL
+
+[[17]]
+NULL
+
+[[18]]
+NULL
+
+[[19]]
+NULL
+
+[[20]]
+NULL
+
+[[21]]
+NULL
+
+[[22]]
+NULL
+
+[[23]]
+NULL
+
+[[24]]
+NULL
+
+[[25]]
+NULL
+
+[[26]]
+NULL
+
+[[27]]
+NULL
+
+[[28]]
+NULL
+
+[[29]]
+NULL
+
+[[30]]
+NULL
+
+[[31]]
+NULL
+
+[[32]]
+NULL
+
+[[33]]
+NULL
+
+[[34]]
+NULL
+
+[[35]]
+NULL
+
+[[36]]
+NULL
+
+[[37]]
+NULL
+
+[[38]]
+NULL
+
+[[39]]
+NULL
+
+[[40]]
+NULL
+
+[[41]]
+NULL
+
+[[42]]
+NULL
+
+[[43]]
+NULL
+
+[[44]]
+NULL
+
+[[45]]
+NULL
+
+[[46]]
+NULL
+
+[[47]]
+NULL
+
+[[48]]
+NULL
+
+[[49]]
+NULL
+
+[[50]]
+NULL
+
+[1] "PROCESSAMENTO FINALIZADO"
+Time difference of 13.19449 mins

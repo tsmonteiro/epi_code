@@ -1,0 +1,49 @@
+[1] "*********************************************************************"
+[1] "Pessoas no lote"
+[1] 3562 3563
+ id     geoid          id_dataset  id_pessoa AGE           GENDER ANTHRACYCLINES ALKYLATING CORTICOSTEROIDS EPIPODOPHYLLOTOXINS VINCRISTINE PLATINUM BRAINRADIOTH CHESTRADIOTH ABD_PELVIC_RADIOTH red_idat_fname                               green_idat_fname                            
+ "3562" "GSM5927776_1" "GSE197675" "3562"    "17.32511978" "F"    "0"            "0"        "0"             "1"                 "0"         "1"      "0"          "0"          "0"                "GSM5927776_204848240112_R04C01_Red.idat.gz" "GSM5927776_204848240112_R04C01_Grn.idat.gz"
+                                                                                                                                                                                         
+ "3563" "GSM5927777_1" "GSE197675" "3563" "33.44459644" "M" "1" "0" "1" "1" "1" "0" "0" "0" "0" "GSM5927777_205122170053_R07C01_Red.idat.gz" "GSM5927777_205122170053_R07C01_Grn.idat.gz"
+[1] "*********************************************************************"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01167058
+[1] 0.01132852
+[1] 0.01067848
+[1] 0.009889869
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006587083
+[1] 0.003703853
+[1] 0.002800667
+[1] 0.002472211
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM5927776_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01104684
+[1] 0.0109883
+[1] 0.01069537
+[1] 0.01016912
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.00887967
+[1] 0.004897455
+[1] 0.003528192
+[1] 0.002974135
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM5927777_1"
+NULL
+[[1]]
+NULL
+
+[[2]]
+NULL
+
+[1] "PROCESSAMENTO FINALIZADO"
+Time difference of 1.209152 mins

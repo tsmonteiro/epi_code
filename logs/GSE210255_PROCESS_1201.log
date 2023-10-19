@@ -1,0 +1,1051 @@
+[1] "*********************************************************************"
+[1] "Pessoas no lote"
+ [1] 5213 5214 5215 5216 5217 5218 5219 5220 5221 5222 5223 5224 5225 5226 5227 5228 5229 5230 5231 5232 5233 5234 5235 5236 5237 5238 5239 5240 5241 5242 5243 5244 5245 5246 5247 5248 5249 5250 5251 5252 5253 5254 5255 5256 5257 5258 5259 5260 5261 5262
+ id     geoid          id_dataset  id_pessoa RACE                    GENDER AGE            TIME PEDIGREEID  GENOAID          PLATE            HYPERTENSION red_idat_fname                                 green_idat_fname                              
+ "5213" "GSM6426354_2" "GSE210255" "5213"    "African American (AA)" "F"    "56.169746749" "2"  "pedid_216" "subjectid_1076" "WG5125122-MSA4" "1"          "GSM6426354_Methylation_EPIC_1201_Red.idat.gz" "GSM6426354_Methylation_EPIC_1201_Grn.idat.gz"
+                                                                                                                                                                                                                                        
+ "5214" "GSM6426355_2" "GSE210255" "5214" "African American (AA)" "M" "72.919917864" "2" "pedid_309" "subjectid_1065" "WG5125122-MSA4" "1" "GSM6426355_Methylation_EPIC_1202_Red.idat.gz" "GSM6426355_Methylation_EPIC_1202_Grn.idat.gz"
+                                                                                                                                                                                                                                        
+ "5215" "GSM6426356_2" "GSE210255" "5215" "African American (AA)" "F" "59.145790554" "2" "pedid_489" "subjectid_1038" "WG5125122-MSA4" "1" "GSM6426356_Methylation_EPIC_1203_Red.idat.gz" "GSM6426356_Methylation_EPIC_1203_Grn.idat.gz"
+                                                                                                                                                                                                                                        
+ "5216" "GSM6426357_2" "GSE210255" "5216" "African American (AA)" "F" "66.622861054" "2" "pedid_299" "subjectid_1069" "WG5125122-MSA4" "1" "GSM6426357_Methylation_EPIC_1204_Red.idat.gz" "GSM6426357_Methylation_EPIC_1204_Grn.idat.gz"
+                                                                                                                                                                                                                                        
+ "5217" "GSM6426358_2" "GSE210255" "5217" "African American (AA)" "F" "45.629021218" "2" "pedid_403" "subjectid_1093" "WG5125122-MSA4" "1" "GSM6426358_Methylation_EPIC_1205_Red.idat.gz" "GSM6426358_Methylation_EPIC_1205_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5218" "GSM6426359_2" "GSE210255" "5218" "African American (AA)" "F" "50.99247091" "2" "pedid_552" "subjectid_1091" "WG5125122-MSA4" "1" "GSM6426359_Methylation_EPIC_1206_Red.idat.gz" "GSM6426359_Methylation_EPIC_1206_Grn.idat.gz"
+                                                                                                                                                                                                                                        
+ "5219" "GSM6426360_2" "GSE210255" "5219" "African American (AA)" "M" "56.714579055" "2" "pedid_220" "subjectid_1092" "WG5125122-MSA4" "1" "GSM6426360_Methylation_EPIC_1207_Red.idat.gz" "GSM6426360_Methylation_EPIC_1207_Grn.idat.gz"
+                                                                                                                                                                                                                                        
+ "5220" "GSM6426361_2" "GSE210255" "5220" "African American (AA)" "F" "45.037645448" "2" "pedid_182" "subjectid_1014" "WG5125098-MSA4" "1" "GSM6426361_Methylation_EPIC_1208_Red.idat.gz" "GSM6426361_Methylation_EPIC_1208_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5221" "GSM6426362_2" "GSE210255" "5221" "African American (AA)" "M" "69.01026694" "2" "pedid_298" "subjectid_1087" "WG5125098-MSA4" "1" "GSM6426362_Methylation_EPIC_1209_Red.idat.gz" "GSM6426362_Methylation_EPIC_1209_Grn.idat.gz"
+                                                                                                                                                                                                                                        
+ "5222" "GSM6426363_2" "GSE210255" "5222" "African American (AA)" "F" "59.331964408" "2" "pedid_268" "subjectid_1175" "WG5125098-MSA4" "1" "GSM6426363_Methylation_EPIC_1210_Red.idat.gz" "GSM6426363_Methylation_EPIC_1210_Grn.idat.gz"
+                                                                                                                                                                                                                                        
+ "5223" "GSM6426364_2" "GSE210255" "5223" "African American (AA)" "M" "58.453114305" "2" "pedid_249" "subjectid_1144" "WG5125098-MSA4" "1" "GSM6426364_Methylation_EPIC_1211_Red.idat.gz" "GSM6426364_Methylation_EPIC_1211_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5224" "GSM6426365_2" "GSE210255" "5224" "African American (AA)" "F" "62.869267625" "2" "pedid_172" "subjectid_434" "WG5125098-MSA4" "1" "GSM6426365_Methylation_EPIC_1212_Red.idat.gz" "GSM6426365_Methylation_EPIC_1212_Grn.idat.gz"
+                                                                                                                                                                                                                                      
+ "5225" "GSM6426366_2" "GSE210255" "5225" "African American (AA)" "M" "68.112251882" "2" "pedid_10" "subjectid_608" "WG5125098-MSA4" "1" "GSM6426366_Methylation_EPIC_1213_Red.idat.gz" "GSM6426366_Methylation_EPIC_1213_Grn.idat.gz"
+                                                                                                                                                                                                                                        
+ "5226" "GSM6426367_2" "GSE210255" "5226" "African American (AA)" "M" "56.227241615" "2" "pedid_343" "subjectid_1374" "WG5125098-MSA4" "1" "GSM6426367_Methylation_EPIC_1214_Red.idat.gz" "GSM6426367_Methylation_EPIC_1214_Grn.idat.gz"
+                                                                                                                                                                                                                                        
+ "5227" "GSM6426368_2" "GSE210255" "5227" "African American (AA)" "F" "62.475017112" "2" "pedid_240" "subjectid_1160" "WG5125098-MSA4" "1" "GSM6426368_Methylation_EPIC_1215_Red.idat.gz" "GSM6426368_Methylation_EPIC_1215_Grn.idat.gz"
+                                                                                                                                                                                                                                        
+ "5228" "GSM6426369_2" "GSE210255" "5228" "African American (AA)" "F" "58.220396988" "2" "pedid_288" "subjectid_1122" "WG5125098-MSA4" "1" "GSM6426369_Methylation_EPIC_1216_Red.idat.gz" "GSM6426369_Methylation_EPIC_1216_Grn.idat.gz"
+                                                                                                                                                                                                                                        
+ "5229" "GSM6426370_2" "GSE210255" "5229" "African American (AA)" "M" "50.976043806" "2" "pedid_182" "subjectid_1008" "WG5125098-MSA4" "1" "GSM6426370_Methylation_EPIC_1217_Red.idat.gz" "GSM6426370_Methylation_EPIC_1217_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5230" "GSM6426371_2" "GSE210255" "5230" "African American (AA)" "F" "68.90349076" "2" "pedid_445" "subjectid_1247" "WG5125098-MSA4" "1" "GSM6426371_Methylation_EPIC_1218_Red.idat.gz" "GSM6426371_Methylation_EPIC_1218_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5231" "GSM6426372_2" "GSE210255" "5231" "African American (AA)" "F" "68.043805613" "2" "pedid_154" "subjectid_951" "WG5125098-MSA4" "1" "GSM6426372_Methylation_EPIC_1219_Red.idat.gz" "GSM6426372_Methylation_EPIC_1219_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5232" "GSM6426373_2" "GSE210255" "5232" "African American (AA)" "F" "61.631759069" "2" "pedid_316" "subjectid_487" "WG5125098-MSA4" "1" "GSM6426373_Methylation_EPIC_1220_Red.idat.gz" "GSM6426373_Methylation_EPIC_1220_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5233" "GSM6426374_2" "GSE210255" "5233" "African American (AA)" "F" "78.694045175" "2" "pedid_391" "subjectid_780" "WG5125098-MSA4" "1" "GSM6426374_Methylation_EPIC_1221_Red.idat.gz" "GSM6426374_Methylation_EPIC_1221_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5234" "GSM6426375_2" "GSE210255" "5234" "African American (AA)" "F" "62.395619439" "2" "pedid_532" "subjectid_323" "WG5125098-MSA4" "1" "GSM6426375_Methylation_EPIC_1222_Red.idat.gz" "GSM6426375_Methylation_EPIC_1222_Grn.idat.gz"
+                                                                                                                                                                                                                                        
+ "5235" "GSM6426376_2" "GSE210255" "5235" "African American (AA)" "F" "55.890485969" "2" "pedid_404" "subjectid_1085" "WG5125122-MSA4" "1" "GSM6426376_Methylation_EPIC_1223_Red.idat.gz" "GSM6426376_Methylation_EPIC_1223_Grn.idat.gz"
+                                                                                                                                                                                                                                        
+ "5236" "GSM6426377_2" "GSE210255" "5236" "African American (AA)" "F" "62.691307324" "2" "pedid_400" "subjectid_1080" "WG5125122-MSA4" "1" "GSM6426377_Methylation_EPIC_1224_Red.idat.gz" "GSM6426377_Methylation_EPIC_1224_Grn.idat.gz"
+                                                                                                                                                                                                                                        
+ "5237" "GSM6426378_2" "GSE210255" "5237" "African American (AA)" "F" "53.979466119" "2" "pedid_482" "subjectid_1078" "WG5125122-MSA4" "1" "GSM6426378_Methylation_EPIC_1225_Red.idat.gz" "GSM6426378_Methylation_EPIC_1225_Grn.idat.gz"
+                                                                                                                                                                                                                                        
+ "5238" "GSM6426379_2" "GSE210255" "5238" "African American (AA)" "F" "46.061601643" "2" "pedid_406" "subjectid_1089" "WG5125122-MSA4" "1" "GSM6426379_Methylation_EPIC_1226_Red.idat.gz" "GSM6426379_Methylation_EPIC_1226_Grn.idat.gz"
+                                                                                                                                                                                                                                      
+ "5239" "GSM6426380_2" "GSE210255" "5239" "African American (AA)" "F" "55.080082136" "2" "pedid_14" "subjectid_571" "WG5125098-MSA4" "1" "GSM6426380_Methylation_EPIC_1227_Red.idat.gz" "GSM6426380_Methylation_EPIC_1227_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5240" "GSM6426381_2" "GSE210255" "5240" "African American (AA)" "F" "56.043805613" "2" "pedid_134" "subjectid_909" "WG5125098-MSA4" "1" "GSM6426381_Methylation_EPIC_1228_Red.idat.gz" "GSM6426381_Methylation_EPIC_1228_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5241" "GSM6426382_2" "GSE210255" "5241" "African American (AA)" "F" "54.628336756" "2" "pedid_281" "subjectid_818" "WG5125098-MSA4" "1" "GSM6426382_Methylation_EPIC_1229_Red.idat.gz" "GSM6426382_Methylation_EPIC_1229_Grn.idat.gz"
+                                                                                                                                                                                                                                      
+ "5242" "GSM6426383_2" "GSE210255" "5242" "African American (AA)" "F" "57.664613279" "2" "pedid_60" "subjectid_708" "WG5125098-MSA4" "1" "GSM6426383_Methylation_EPIC_1230_Red.idat.gz" "GSM6426383_Methylation_EPIC_1230_Grn.idat.gz"
+                                                                                                                                                                                                                                        
+ "5243" "GSM6426384_2" "GSE210255" "5243" "African American (AA)" "M" "56.950034223" "2" "pedid_511" "subjectid_1236" "WG5125098-MSA4" "1" "GSM6426384_Methylation_EPIC_1231_Red.idat.gz" "GSM6426384_Methylation_EPIC_1231_Grn.idat.gz"
+                                                                                                                                                                                                                                      
+ "5244" "GSM6426385_2" "GSE210255" "5244" "African American (AA)" "F" "60.536618754" "2" "pedid_23" "subjectid_588" "WG5125098-MSA4" "1" "GSM6426385_Methylation_EPIC_1232_Red.idat.gz" "GSM6426385_Methylation_EPIC_1232_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5245" "GSM6426386_2" "GSE210255" "5245" "African American (AA)" "M" "61.267624914" "2" "pedid_115" "subjectid_861" "WG5125098-MSA4" "1" "GSM6426386_Methylation_EPIC_1233_Red.idat.gz" "GSM6426386_Methylation_EPIC_1233_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5246" "GSM6426387_2" "GSE210255" "5246" "African American (AA)" "F" "70.349075975" "2" "pedid_176" "subjectid_344" "WG5125098-MSA4" "1" "GSM6426387_Methylation_EPIC_1234_Red.idat.gz" "GSM6426387_Methylation_EPIC_1234_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5247" "GSM6426388_2" "GSE210255" "5247" "African American (AA)" "F" "62.209445585" "2" "pedid_386" "subjectid_182" "WG5125073-MSA4" "1" "GSM6426388_Methylation_EPIC_1235_Red.idat.gz" "GSM6426388_Methylation_EPIC_1235_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5248" "GSM6426389_2" "GSE210255" "5248" "African American (AA)" "F" "61.158110883" "2" "pedid_527" "subjectid_192" "WG5125073-MSA4" "1" "GSM6426389_Methylation_EPIC_1236_Red.idat.gz" "GSM6426389_Methylation_EPIC_1236_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5249" "GSM6426390_2" "GSE210255" "5249" "African American (AA)" "F" "75.556468172" "2" "pedid_122" "subjectid_193" "WG5125073-MSA4" "1" "GSM6426390_Methylation_EPIC_1237_Red.idat.gz" "GSM6426390_Methylation_EPIC_1237_Grn.idat.gz"
+                                                                                                                                                                                                                                      
+ "5250" "GSM6426391_2" "GSE210255" "5250" "African American (AA)" "M" "63.162217659" "2" "pedid_55" "subjectid_153" "WG5125073-MSA4" "1" "GSM6426391_Methylation_EPIC_1238_Red.idat.gz" "GSM6426391_Methylation_EPIC_1238_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5251" "GSM6426392_2" "GSE210255" "5251" "African American (AA)" "M" "63.471594798" "2" "pedid_198" "subjectid_253" "WG5125073-MSA4" "1" "GSM6426392_Methylation_EPIC_1239_Red.idat.gz" "GSM6426392_Methylation_EPIC_1239_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5252" "GSM6426393_2" "GSE210255" "5252" "African American (AA)" "F" "64.563997262" "2" "pedid_356" "subjectid_237" "WG5125073-MSA4" "1" "GSM6426393_Methylation_EPIC_1240_Red.idat.gz" "GSM6426393_Methylation_EPIC_1240_Grn.idat.gz"
+                                                                                                                                                                                                                                      
+ "5253" "GSM6426394_2" "GSE210255" "5253" "African American (AA)" "F" "66.548939083" "2" "pedid_74" "subjectid_231" "WG5125073-MSA4" "1" "GSM6426394_Methylation_EPIC_1241_Red.idat.gz" "GSM6426394_Methylation_EPIC_1241_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5254" "GSM6426395_2" "GSE210255" "5254" "African American (AA)" "F" "67.507186858" "2" "pedid_470" "subjectid_226" "WG5125073-MSA4" "1" "GSM6426395_Methylation_EPIC_1242_Red.idat.gz" "GSM6426395_Methylation_EPIC_1242_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5255" "GSM6426396_2" "GSE210255" "5255" "African American (AA)" "F" "61.048596851" "2" "pedid_160" "subjectid_294" "WG5125073-MSA4" "1" "GSM6426396_Methylation_EPIC_1243_Red.idat.gz" "GSM6426396_Methylation_EPIC_1243_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5256" "GSM6426397_2" "GSE210255" "5256" "African American (AA)" "F" "70.239561944" "2" "pedid_363" "subjectid_256" "WG5125073-MSA4" "1" "GSM6426397_Methylation_EPIC_1244_Red.idat.gz" "GSM6426397_Methylation_EPIC_1244_Grn.idat.gz"
+                                                                                                                                                                                                                                      
+ "5257" "GSM6426398_2" "GSE210255" "5257" "African American (AA)" "M" "64.186173854" "2" "pedid_28" "subjectid_281" "WG5125073-MSA4" "1" "GSM6426398_Methylation_EPIC_1245_Red.idat.gz" "GSM6426398_Methylation_EPIC_1245_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5258" "GSM6426399_2" "GSE210255" "5258" "African American (AA)" "F" "65.232032854" "2" "pedid_310" "subjectid_279" "WG5125073-MSA4" "1" "GSM6426399_Methylation_EPIC_1246_Red.idat.gz" "GSM6426399_Methylation_EPIC_1246_Grn.idat.gz"
+                                                                                                                                                                                                                                        
+ "5259" "GSM6426400_2" "GSE210255" "5259" "African American (AA)" "F" "57.423682409" "2" "pedid_407" "subjectid_1108" "WG5125122-MSA4" "1" "GSM6426400_Methylation_EPIC_1247_Red.idat.gz" "GSM6426400_Methylation_EPIC_1247_Grn.idat.gz"
+                                                                                                                                                                                                                                        
+ "5260" "GSM6426401_2" "GSE210255" "5260" "African American (AA)" "M" "69.349760438" "2" "pedid_409" "subjectid_1112" "WG5125122-MSA4" "1" "GSM6426401_Methylation_EPIC_1248_Red.idat.gz" "GSM6426401_Methylation_EPIC_1248_Grn.idat.gz"
+                                                                                                                                                                                                                                        
+ "5261" "GSM6426402_2" "GSE210255" "5261" "African American (AA)" "M" "67.685147159" "2" "pedid_227" "subjectid_1116" "WG5125122-MSA4" "1" "GSM6426402_Methylation_EPIC_1249_Red.idat.gz" "GSM6426402_Methylation_EPIC_1249_Grn.idat.gz"
+                                                                                                                                                                                                                                       
+ "5262" "GSM6426403_2" "GSE210255" "5262" "African American (AA)" "F" "50.12183436" "2" "pedid_405" "subjectid_1096" "WG5125122-MSA4" "1" "GSM6426403_Methylation_EPIC_1250_Red.idat.gz" "GSM6426403_Methylation_EPIC_1250_Grn.idat.gz"
+[1] "*********************************************************************"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.007876368
+[1] 0.005868716
+[1] 0.00509495
+[1] 0.004642717
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01143056
+[1] 0.007096521
+[1] 0.005385858
+[1] 0.004569218
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426354_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.004166946
+[1] 0.002585097
+[1] 0.001980087
+[1] 0.001650535
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.004975847
+[1] 0.003894953
+[1] 0.003543541
+[1] 0.003302298
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426355_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.005675246
+[1] 0.004347629
+[1] 0.00383305
+[1] 0.003477156
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.005126452
+[1] 0.003624879
+[1] 0.003141424
+[1] 0.00288492
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426356_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.005776444
+[1] 0.004018821
+[1] 0.003329836
+[1] 0.002930482
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006238389
+[1] 0.004697993
+[1] 0.004136708
+[1] 0.003802512
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426357_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.00575676
+[1] 0.004274213
+[1] 0.003856394
+[1] 0.00364858
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.009729619
+[1] 0.006024117
+[1] 0.004627003
+[1] 0.0039683
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426358_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.006153341
+[1] 0.005269116
+[1] 0.004927578
+[1] 0.004632862
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01008452
+[1] 0.006351529
+[1] 0.005065757
+[1] 0.004490673
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426359_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01047106
+[1] 0.008769693
+[1] 0.007704438
+[1] 0.006815186
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006232162
+[1] 0.004197052
+[1] 0.003374617
+[1] 0.002433289
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426360_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01016852
+[1] 0.008342204
+[1] 0.007624933
+[1] 0.007113312
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.009211685
+[1] 0.005079307
+[1] 0.003521965
+[1] 0.00281108
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426361_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.008202891
+[1] 0.007160399
+[1] 0.006502907
+[1] 0.005921105
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.005102768
+[1] 0.002118866
+[1] 0.001486756
+[1] 0.001547234
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426362_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.007941177
+[1] 0.005685298
+[1] 0.004928372
+[1] 0.004550491
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.007575707
+[1] 0.004070987
+[1] 0.002777389
+[1] 0.002201
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426363_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.007124815
+[1] 0.00671587
+[1] 0.006332069
+[1] 0.005901144
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.004453462
+[1] 0.002386253
+[1] 0.001753222
+[1] 0.001477265
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426364_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.005910976
+[1] 0.004766924
+[1] 0.004241161
+[1] 0.003825522
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.004717521
+[1] 0.002488122
+[1] 0.00177185
+[1] 0.001464092
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426365_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.006436449
+[1] 0.005651922
+[1] 0.005082807
+[1] 0.004550261
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.007563887
+[1] 0.004376244
+[1] 0.003219768
+[1] 0.002710245
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426366_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.008285495
+[1] 0.00575447
+[1] 0.004926787
+[1] 0.004509507
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.004976205
+[1] 0.002507199
+[1] 0.001670489
+[1] 0.001348674
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426367_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01022662
+[1] 0.007889044
+[1] 0.006930984
+[1] 0.006349471
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.007453415
+[1] 0.003841605
+[1] 0.002550876
+[1] 0.002020489
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426368_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01191458
+[1] 0.0103494
+[1] 0.009318896
+[1] 0.00845319
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.00445339
+[1] 0.001678509
+[1] 0.001549412
+[1] 0.001553663
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426369_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01011051
+[1] 0.008128052
+[1] 0.007371931
+[1] 0.006906553
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.00739262
+[1] 0.004120683
+[1] 0.002920941
+[1] 0.002382521
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426370_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.009453435
+[1] 0.006174326
+[1] 0.004986726
+[1] 0.004440524
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01004473
+[1] 0.005821024
+[1] 0.00416073
+[1] 0.003378095
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426371_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.005707009
+[1] 0.004303291
+[1] 0.003719968
+[1] 0.00332
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.007038834
+[1] 0.004451409
+[1] 0.003460844
+[1] 0.002959702
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426372_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.008937093
+[1] 0.006463415
+[1] 0.005483355
+[1] 0.004899343
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.00937477
+[1] 0.005467055
+[1] 0.004096304
+[1] 0.003511627
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426373_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.008528839
+[1] 0.006805264
+[1] 0.005868531
+[1] 0.005159881
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.005736606
+[1] 0.003494456
+[1] 0.002708742
+[1] 0.002299768
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426374_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.008824186
+[1] 0.006737196
+[1] 0.005849479
+[1] 0.005276032
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.007563219
+[1] 0.005026592
+[1] 0.004108721
+[1] 0.003654739
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426375_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.003436673
+[1] 0.002171883
+[1] 0.001778047
+[1] 0.001564843
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.009926403
+[1] 0.005332878
+[1] 0.003637801
+[1] 0.002895345
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426376_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.005910785
+[1] 0.002548573
+[1] 0.001404627
+[1] 0.0009653024
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006387329
+[1] 0.003885731
+[1] 0.002944127
+[1] 0.002471543
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426377_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.005506178
+[1] 0.003602495
+[1] 0.003017258
+[1] 0.002738291
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01018382
+[1] 0.00584717
+[1] 0.004282866
+[1] 0.003606092
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426378_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.004296541
+[1] 0.003394802
+[1] 0.003183949
+[1] 0.003035156
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.007100452
+[1] 0.004868098
+[1] 0.004049558
+[1] 0.003604117
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426379_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.0102936
+[1] 0.008577136
+[1] 0.00772922
+[1] 0.007095111
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006215925
+[1] 0.002999726
+[1] 0.001774333
+[1] 0.001336294
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426380_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.007853527
+[1] 0.006257997
+[1] 0.005720302
+[1] 0.005396408
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.009426629
+[1] 0.00537998
+[1] 0.003780444
+[1] 0.003025926
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426381_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.007739007
+[1] 0.006504239
+[1] 0.005772423
+[1] 0.005158785
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.00839006
+[1] 0.00439473
+[1] 0.002925116
+[1] 0.002293028
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426382_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.007219368
+[1] 0.005524582
+[1] 0.005012797
+[1] 0.004750907
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.007100375
+[1] 0.003896945
+[1] 0.002779834
+[1] 0.002319727
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426383_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.006806347
+[1] 0.005256233
+[1] 0.004591197
+[1] 0.004140195
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.004263699
+[1] 0.002147806
+[1] 0.001503041
+[1] 0.001305164
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426384_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.008265305
+[1] 0.005044051
+[1] 0.003989003
+[1] 0.003561296
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.005613016
+[1] 0.003369307
+[1] 0.002687321
+[1] 0.002402356
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426385_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.004818967
+[1] 0.003778242
+[1] 0.003272583
+[1] 0.002876567
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.00548784
+[1] 0.003120709
+[1] 0.002359272
+[1] 0.002046836
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426386_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.007774524
+[1] 0.005288518
+[1] 0.004471977
+[1] 0.004090478
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.009207994
+[1] 0.005153804
+[1] 0.003656161
+[1] 0.003004099
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426387_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.00948065
+[1] 0.006792188
+[1] 0.005845826
+[1] 0.005348362
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.007369465
+[1] 0.003558648
+[1] 0.002100169
+[1] 0.001440336
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426388_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.007005043
+[1] 0.005244128
+[1] 0.004604678
+[1] 0.004222355
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.005002885
+[1] 0.002621579
+[1] 0.001747119
+[1] 0.001353426
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426389_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01081535
+[1] 0.00773946
+[1] 0.006540871
+[1] 0.005909235
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.008768361
+[1] 0.004672551
+[1] 0.003010437
+[1] 0.00220907
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426390_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.007011096
+[1] 0.005070404
+[1] 0.004280545
+[1] 0.003788649
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.004454195
+[1] 0.00182697
+[1] 0.001334679
+[1] 0.001447186
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426391_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.00489015
+[1] 0.003871622
+[1] 0.003396998
+[1] 0.003034985
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.005713302
+[1] 0.002312317
+[1] 0.001252945
+[1] 0.001408927
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426392_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.009354433
+[1] 0.007010702
+[1] 0.005973802
+[1] 0.005301273
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.004236968
+[1] 0.00201978
+[1] 0.001238223
+[1] 0.001273114
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426393_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.006749395
+[1] 0.004744985
+[1] 0.004112341
+[1] 0.003808332
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.007111283
+[1] 0.003533419
+[1] 0.002136167
+[1] 0.001483725
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426394_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.005725911
+[1] 0.004375584
+[1] 0.003981797
+[1] 0.003764785
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006664365
+[1] 0.00323931
+[1] 0.00196721
+[1] 0.001402463
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426395_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.0061924
+[1] 0.005334932
+[1] 0.004804859
+[1] 0.00429645
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.005874646
+[1] 0.002391297
+[1] 0.001497085
+[1] 0.001521106
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426396_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.00407557
+[1] 0.002869239
+[1] 0.002443719
+[1] 0.002189752
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.004023381
+[1] 0.0009485659
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426397_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.007907659
+[1] 0.006523781
+[1] 0.005988137
+[1] 0.005599108
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.005884482
+[1] 0.002539124
+[1] 0.00145075
+[1] 0.001535523
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426398_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.002597596
+[1] 0.0004143019
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.008549243
+[1] 0.004329517
+[1] 0.002664914
+[1] 0.001887398
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426399_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.001584221
+[1] 0.0007759098
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.008071374
+[1] 0.005934384
+[1] 0.005122158
+[1] 0.004665075
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426400_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.005153881
+[1] 0.003200908
+[1] 0.002472586
+[1] 0.002084894
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006726572
+[1] 0.005267928
+[1] 0.004686995
+[1] 0.004319848
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426401_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.005918582
+[1] 0.00362715
+[1] 0.002887711
+[1] 0.002540413
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006712172
+[1] 0.006254219
+[1] 0.005903208
+[1] 0.005523653
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426402_2"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.002803798
+[1] 0.001276824
+[1] 0.001065706
+[1] 0.001094781
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.01154136
+[1] 0.007437992
+[1] 0.005937566
+[1] 0.005245
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM6426403_2"
+NULL
+[[1]]
+NULL
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[[11]]
+NULL
+
+[[12]]
+NULL
+
+[[13]]
+NULL
+
+[[14]]
+NULL
+
+[[15]]
+NULL
+
+[[16]]
+NULL
+
+[[17]]
+NULL
+
+[[18]]
+NULL
+
+[[19]]
+NULL
+
+[[20]]
+NULL
+
+[[21]]
+NULL
+
+[[22]]
+NULL
+
+[[23]]
+NULL
+
+[[24]]
+NULL
+
+[[25]]
+NULL
+
+[[26]]
+NULL
+
+[[27]]
+NULL
+
+[[28]]
+NULL
+
+[[29]]
+NULL
+
+[[30]]
+NULL
+
+[[31]]
+NULL
+
+[[32]]
+NULL
+
+[[33]]
+NULL
+
+[[34]]
+NULL
+
+[[35]]
+NULL
+
+[[36]]
+NULL
+
+[[37]]
+NULL
+
+[[38]]
+NULL
+
+[[39]]
+NULL
+
+[[40]]
+NULL
+
+[[41]]
+NULL
+
+[[42]]
+NULL
+
+[[43]]
+NULL
+
+[[44]]
+NULL
+
+[[45]]
+NULL
+
+[[46]]
+NULL
+
+[[47]]
+NULL
+
+[[48]]
+NULL
+
+[[49]]
+NULL
+
+[[50]]
+NULL
+
+[1] "PROCESSAMENTO FINALIZADO"
+Time difference of 12.66284 mins

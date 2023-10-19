@@ -1,0 +1,1057 @@
+[1] "*********************************************************************"
+[1] "Pessoas no lote"
+ [1] 3714 3715 3716 3717 3718 3719 3720 3721 3722 3723 3724 3725 3726 3727 3728 3729 3730 3731 3732 3733 3734 3735 3736 3737 3738 3739 3740 3741 3742 3743 3744 3745 3746 3747 3748 3749 3750 3751 3752 3753 3754 3755 3756 3757 3758 3759 3760 3761 3762 3763
+ id     geoid          id_dataset  id_pessoa AGE  GENDER RACE MERGEDCAPSANDPSSWINTHIN30DAYS TEI_TOTAL_TYPES_EXPERIENCED_SOMEWITNESS CHILDABPHYSSEXEMOT_CTQ_01MODANDSEV red_idat_fname                               green_idat_fname                            
+ "3714" "GSM3853675_1" "GSE132203" "3714"    "51" "F"    "AA" "0"                           "0"                                     "0"                                "GSM3853675_201220980004_R02C01_Red.idat.gz" "GSM3853675_201220980004_R02C01_Grn.idat.gz"
+                                                                                                                                                                
+ "3715" "GSM3853676_1" "GSE132203" "3715" "50" "F" "AA" "NA" "NA" "NA" "GSM3853676_201220980004_R03C01_Red.idat.gz" "GSM3853676_201220980004_R03C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3716" "GSM3853677_1" "GSE132203" "3716" "41" "F" "AA" "0" "0" "0" "GSM3853677_201220980004_R08C01_Red.idat.gz" "GSM3853677_201220980004_R08C01_Grn.idat.gz"
+                                                                                                                                                                
+ "3717" "GSM3853678_1" "GSE132203" "3717" "38" "F" "Other" "1" "1" "1" "GSM3853678_201220980010_R01C01_Red.idat.gz" "GSM3853678_201220980010_R01C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3718" "GSM3853679_1" "GSE132203" "3718" "53" "F" "AA" "1" "1" "1" "GSM3853679_201220980010_R02C01_Red.idat.gz" "GSM3853679_201220980010_R02C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3719" "GSM3853680_1" "GSE132203" "3719" "22" "F" "AA" "1" "1" "1" "GSM3853680_201220980010_R03C01_Red.idat.gz" "GSM3853680_201220980010_R03C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3720" "GSM3853681_1" "GSE132203" "3720" "52" "F" "AA" "0" "0" "0" "GSM3853681_201220980010_R04C01_Red.idat.gz" "GSM3853681_201220980010_R04C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3721" "GSM3853682_1" "GSE132203" "3721" "55" "F" "AA" "1" "1" "1" "GSM3853682_201220980010_R05C01_Red.idat.gz" "GSM3853682_201220980010_R05C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3722" "GSM3853683_1" "GSE132203" "3722" "50" "F" "AA" "1" "1" "1" "GSM3853683_201220980011_R01C01_Red.idat.gz" "GSM3853683_201220980011_R01C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3723" "GSM3853684_1" "GSE132203" "3723" "53" "F" "AA" "0" "0" "0" "GSM3853684_201220980011_R02C01_Red.idat.gz" "GSM3853684_201220980011_R02C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3724" "GSM3853685_1" "GSE132203" "3724" "57" "F" "AA" "0" "0" "0" "GSM3853685_201220980011_R03C01_Red.idat.gz" "GSM3853685_201220980011_R03C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3725" "GSM3853686_1" "GSE132203" "3725" "18" "F" "AA" "0" "0" "0" "GSM3853686_201220980011_R04C01_Red.idat.gz" "GSM3853686_201220980011_R04C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3726" "GSM3853687_1" "GSE132203" "3726" "57" "F" "AA" "0" "0" "0" "GSM3853687_201220980011_R05C01_Red.idat.gz" "GSM3853687_201220980011_R05C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3727" "GSM3853688_1" "GSE132203" "3727" "44" "F" "AA" "1" "1" "1" "GSM3853688_201220980011_R06C01_Red.idat.gz" "GSM3853688_201220980011_R06C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3728" "GSM3853689_1" "GSE132203" "3728" "45" "F" "AA" "1" "1" "1" "GSM3853689_201220980011_R07C01_Red.idat.gz" "GSM3853689_201220980011_R07C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3729" "GSM3853690_1" "GSE132203" "3729" "48" "F" "AA" "0" "0" "0" "GSM3853690_201220980011_R08C01_Red.idat.gz" "GSM3853690_201220980011_R08C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3730" "GSM3853691_1" "GSE132203" "3730" "53" "F" "AA" "0" "0" "0" "GSM3853691_201220980016_R07C01_Red.idat.gz" "GSM3853691_201220980016_R07C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3731" "GSM3853692_1" "GSE132203" "3731" "54" "F" "AA" "0" "0" "0" "GSM3853692_201220980016_R08C01_Red.idat.gz" "GSM3853692_201220980016_R08C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3732" "GSM3853693_1" "GSE132203" "3732" "43" "F" "AA" "1" "1" "1" "GSM3853693_201220980026_R03C01_Red.idat.gz" "GSM3853693_201220980026_R03C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3733" "GSM3853694_1" "GSE132203" "3733" "19" "F" "AA" "0" "0" "0" "GSM3853694_201220980026_R04C01_Red.idat.gz" "GSM3853694_201220980026_R04C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3734" "GSM3853695_1" "GSE132203" "3734" "28" "F" "AA" "0" "0" "0" "GSM3853695_201220980026_R05C01_Red.idat.gz" "GSM3853695_201220980026_R05C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3735" "GSM3853696_1" "GSE132203" "3735" "25" "F" "AA" "0" "0" "0" "GSM3853696_201220980026_R07C01_Red.idat.gz" "GSM3853696_201220980026_R07C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3736" "GSM3853697_1" "GSE132203" "3736" "53" "F" "AA" "0" "0" "0" "GSM3853697_201220980026_R08C01_Red.idat.gz" "GSM3853697_201220980026_R08C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3737" "GSM3853698_1" "GSE132203" "3737" "60" "F" "AA" "0" "0" "0" "GSM3853698_201220980028_R01C01_Red.idat.gz" "GSM3853698_201220980028_R01C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3738" "GSM3853699_1" "GSE132203" "3738" "48" "F" "AA" "1" "1" "1" "GSM3853699_201220980028_R02C01_Red.idat.gz" "GSM3853699_201220980028_R02C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3739" "GSM3853700_1" "GSE132203" "3739" "57" "F" "AA" "0" "0" "0" "GSM3853700_201220980028_R03C01_Red.idat.gz" "GSM3853700_201220980028_R03C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3740" "GSM3853701_1" "GSE132203" "3740" "32" "F" "AA" "1" "1" "1" "GSM3853701_201220980028_R04C01_Red.idat.gz" "GSM3853701_201220980028_R04C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3741" "GSM3853702_1" "GSE132203" "3741" "33" "F" "AA" "0" "0" "0" "GSM3853702_201220980028_R05C01_Red.idat.gz" "GSM3853702_201220980028_R05C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3742" "GSM3853703_1" "GSE132203" "3742" "21" "F" "AA" "0" "0" "0" "GSM3853703_201220980028_R06C01_Red.idat.gz" "GSM3853703_201220980028_R06C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3743" "GSM3853704_1" "GSE132203" "3743" "59" "F" "AA" "1" "1" "1" "GSM3853704_201220980028_R07C01_Red.idat.gz" "GSM3853704_201220980028_R07C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3744" "GSM3853705_1" "GSE132203" "3744" "41" "F" "AA" "0" "0" "0" "GSM3853705_201220980028_R08C01_Red.idat.gz" "GSM3853705_201220980028_R08C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3745" "GSM3853706_1" "GSE132203" "3745" "54" "F" "AA" "0" "0" "0" "GSM3853706_201220980030_R08C01_Red.idat.gz" "GSM3853706_201220980030_R08C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3746" "GSM3853707_1" "GSE132203" "3746" "35" "F" "AA" "1" "1" "1" "GSM3853707_201220980034_R02C01_Red.idat.gz" "GSM3853707_201220980034_R02C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3747" "GSM3853708_1" "GSE132203" "3747" "36" "F" "AA" "0" "0" "0" "GSM3853708_201220980034_R08C01_Red.idat.gz" "GSM3853708_201220980034_R08C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3748" "GSM3853709_1" "GSE132203" "3748" "50" "F" "AA" "0" "0" "0" "GSM3853709_201220980035_R01C01_Red.idat.gz" "GSM3853709_201220980035_R01C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3749" "GSM3853710_1" "GSE132203" "3749" "30" "F" "AA" "0" "0" "0" "GSM3853710_201220980035_R02C01_Red.idat.gz" "GSM3853710_201220980035_R02C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3750" "GSM3853711_1" "GSE132203" "3750" "60" "F" "AA" "1" "1" "1" "GSM3853711_201220980035_R08C01_Red.idat.gz" "GSM3853711_201220980035_R08C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3751" "GSM3853712_1" "GSE132203" "3751" "18" "F" "AA" "0" "0" "0" "GSM3853712_201220980036_R01C01_Red.idat.gz" "GSM3853712_201220980036_R01C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3752" "GSM3853713_1" "GSE132203" "3752" "47" "F" "AA" "0" "0" "0" "GSM3853713_201220980039_R02C01_Red.idat.gz" "GSM3853713_201220980039_R02C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3753" "GSM3853714_1" "GSE132203" "3753" "44" "F" "AA" "0" "0" "0" "GSM3853714_201220980039_R03C01_Red.idat.gz" "GSM3853714_201220980039_R03C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3754" "GSM3853715_1" "GSE132203" "3754" "51" "F" "AA" "1" "1" "1" "GSM3853715_201220980039_R07C01_Red.idat.gz" "GSM3853715_201220980039_R07C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3755" "GSM3853716_1" "GSE132203" "3755" "50" "F" "AA" "1" "1" "1" "GSM3853716_201220980039_R08C01_Red.idat.gz" "GSM3853716_201220980039_R08C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3756" "GSM3853717_1" "GSE132203" "3756" "32" "F" "AA" "1" "1" "1" "GSM3853717_201220980042_R05C01_Red.idat.gz" "GSM3853717_201220980042_R05C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3757" "GSM3853718_1" "GSE132203" "3757" "29" "F" "AA" "0" "0" "0" "GSM3853718_201220980042_R06C01_Red.idat.gz" "GSM3853718_201220980042_R06C01_Grn.idat.gz"
+                                                                                                                                                                
+ "3758" "GSM3853719_1" "GSE132203" "3758" "46" "F" "Other" "1" "1" "1" "GSM3853719_201220980042_R07C01_Red.idat.gz" "GSM3853719_201220980042_R07C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3759" "GSM3853720_1" "GSE132203" "3759" "58" "F" "AA" "0" "0" "0" "GSM3853720_201220980045_R01C01_Red.idat.gz" "GSM3853720_201220980045_R01C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3760" "GSM3853721_1" "GSE132203" "3760" "47" "F" "AA" "1" "1" "1" "GSM3853721_201220980045_R02C01_Red.idat.gz" "GSM3853721_201220980045_R02C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3761" "GSM3853722_1" "GSE132203" "3761" "49" "F" "AA" "1" "1" "1" "GSM3853722_201220980045_R03C01_Red.idat.gz" "GSM3853722_201220980045_R03C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3762" "GSM3853723_1" "GSE132203" "3762" "57" "M" "AA" "1" "1" "1" "GSM3853723_201220980045_R04C01_Red.idat.gz" "GSM3853723_201220980045_R04C01_Grn.idat.gz"
+                                                                                                                                                             
+ "3763" "GSM3853724_1" "GSE132203" "3763" "34" "M" "AA" "0" "0" "0" "GSM3853724_201220980045_R05C01_Red.idat.gz" "GSM3853724_201220980045_R05C01_Grn.idat.gz"
+[1] "*********************************************************************"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01136404
+[1] 0.01211763
+[1] 0.01205244
+[1] 0.01152989
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006750818
+[1] 0.004060034
+[1] 0.003087517
+[1] 0.002650458
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853675_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01356977
+[1] 0.01452752
+[1] 0.01407402
+[1] 0.01330777
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.007169816
+[1] 0.005523981
+[1] 0.00497402
+[1] 0.00463126
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853676_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.005279851
+[1] 0.008010418
+[1] 0.008898688
+[1] 0.008967494
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.007409644
+[1] 0.004072564
+[1] 0.002834226
+[1] 0.002272511
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853677_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01586009
+[1] 0.01745431
+[1] 0.01718361
+[1] 0.01652078
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.003281975
+[1] 0.001892715
+[1] 0.0014915
+[1] 0.001304942
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853678_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01331112
+[1] 0.0149386
+[1] 0.0150329
+[1] 0.01448542
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.005721851
+[1] 0.003446086
+[1] 0.002768393
+[1] 0.002515841
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853679_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01138085
+[1] 0.014059
+[1] 0.01462632
+[1] 0.01435901
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.004856665
+[1] 0.002263252
+[1] 0.001418924
+[1] 0.001230179
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853680_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01329992
+[1] 0.01463076
+[1] 0.0144
+[1] 0.01368865
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.004101421
+[1] 0.00225647
+[1] 0.001735272
+[1] 0.001532774
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853681_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.007365024
+[1] 0.009075784
+[1] 0.009609834
+[1] 0.009551506
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.005140344
+[1] 0.003225666
+[1] 0.002640216
+[1] 0.002409879
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853682_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.006468936
+[1] 0.008506158
+[1] 0.009377613
+[1] 0.009544832
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006688265
+[1] 0.003221319
+[1] 0.00193019
+[1] 0.001377156
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853683_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01324032
+[1] 0.01439166
+[1] 0.01423229
+[1] 0.01354835
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.004283972
+[1] 0.002638758
+[1] 0.002198757
+[1] 0.002059481
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853684_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01435415
+[1] 0.01517032
+[1] 0.01496266
+[1] 0.01428917
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.005331696
+[1] 0.003005974
+[1] 0.002292367
+[1] 0.002021542
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853685_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01175776
+[1] 0.01386441
+[1] 0.01415066
+[1] 0.0137405
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.005644169
+[1] 0.002607995
+[1] 0.001696679
+[1] 0.001407746
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853686_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01276464
+[1] 0.01343976
+[1] 0.01318015
+[1] 0.01253134
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.005332008
+[1] 0.00322568
+[1] 0.002555422
+[1] 0.002275486
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853687_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.004923686
+[1] 0.007705017
+[1] 0.008962623
+[1] 0.009375641
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.008713655
+[1] 0.004973581
+[1] 0.003525715
+[1] 0.002849141
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853688_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.007329487
+[1] 0.01042795
+[1] 0.01160553
+[1] 0.01187352
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006366532
+[1] 0.003980166
+[1] 0.00311689
+[1] 0.002711906
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853689_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.009670797
+[1] 0.0110263
+[1] 0.0112067
+[1] 0.01093838
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.008033754
+[1] 0.004520378
+[1] 0.003395279
+[1] 0.002968113
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853690_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.008016293
+[1] 0.009320794
+[1] 0.009658947
+[1] 0.009509025
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.003300614
+[1] 0.001254669
+[1] 0.001413088
+[1] 0.001502718
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853691_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.004551415
+[1] 0.002421384
+[1] 0.002091803
+[1] 0.002342495
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.004790033
+[1] 0.002026388
+[1] 0.001356145
+[1] 0.001519638
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853692_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01094966
+[1] 0.01222313
+[1] 0.01223706
+[1] 0.0117682
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006191825
+[1] 0.003743213
+[1] 0.002886378
+[1] 0.002497496
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853693_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01183786
+[1] 0.01344181
+[1] 0.01347331
+[1] 0.01314724
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.004833801
+[1] 0.00300143
+[1] 0.002473811
+[1] 0.002263579
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853694_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01038867
+[1] 0.01231812
+[1] 0.01286329
+[1] 0.01305715
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.003551227
+[1] 0.001858109
+[1] 0.001420045
+[1] 0.001285499
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853695_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.00558214
+[1] 0.006800167
+[1] 0.007342623
+[1] 0.007422739
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.005881182
+[1] 0.00321233
+[1] 0.002293399
+[1] 0.001901517
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853696_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01411175
+[1] 0.0146887
+[1] 0.01427915
+[1] 0.01358743
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006202278
+[1] 0.003390719
+[1] 0.002464307
+[1] 0.00210412
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853697_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01548041
+[1] 0.01479891
+[1] 0.0139619
+[1] 0.01297234
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.003300138
+[1] 0.001632361
+[1] 0.001390825
+[1] 0.00142487
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853698_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01552166
+[1] 0.0154469
+[1] 0.0146387
+[1] 0.01359583
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.003918087
+[1] 0.003079092
+[1] 0.00272994
+[1] 0.002441822
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853699_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01453504
+[1] 0.01453523
+[1] 0.01382402
+[1] 0.01287152
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.004347265
+[1] 0.002881914
+[1] 0.002550437
+[1] 0.002459504
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853700_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01365074
+[1] 0.01355222
+[1] 0.01281549
+[1] 0.01197413
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.005883436
+[1] 0.003727983
+[1] 0.003126815
+[1] 0.002909807
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853701_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01519264
+[1] 0.01409324
+[1] 0.01318692
+[1] 0.01231255
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.004310992
+[1] 0.003334914
+[1] 0.002985633
+[1] 0.002736278
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853702_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01458572
+[1] 0.01346317
+[1] 0.01227266
+[1] 0.01109366
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.008219962
+[1] 0.006460082
+[1] 0.005798357
+[1] 0.005393263
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853703_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.0134857
+[1] 0.01380951
+[1] 0.01347163
+[1] 0.01277818
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.004455424
+[1] 0.002611244
+[1] 0.002084311
+[1] 0.001885096
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853704_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.0159007
+[1] 0.01597455
+[1] 0.01531048
+[1] 0.01435061
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.0065957
+[1] 0.003976531
+[1] 0.003192596
+[1] 0.002907837
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853705_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.008415947
+[1] 0.009877207
+[1] 0.01042334
+[1] 0.01049229
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006178075
+[1] 0.003043827
+[1] 0.001869374
+[1] 0.001345082
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853706_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.0120565
+[1] 0.01184831
+[1] 0.01146212
+[1] 0.01084456
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.008563444
+[1] 0.00476571
+[1] 0.003363249
+[1] 0.002741423
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853707_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01213594
+[1] 0.01446898
+[1] 0.01484042
+[1] 0.01548574
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.005725071
+[1] 0.003607169
+[1] 0.003317685
+[1] 0.003261799
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853708_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01148746
+[1] 0.01190278
+[1] 0.01196005
+[1] 0.0116674
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.00663283
+[1] 0.00337658
+[1] 0.002146741
+[1] 0.001597662
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853709_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01354632
+[1] 0.01421199
+[1] 0.01374987
+[1] 0.01286904
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006283412
+[1] 0.003464491
+[1] 0.002539598
+[1] 0.002172037
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853710_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.005738521
+[1] 0.007952119
+[1] 0.008868479
+[1] 0.009120419
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.007722443
+[1] 0.004863872
+[1] 0.003744842
+[1] 0.003195511
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853711_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.006424762
+[1] 0.009208962
+[1] 0.01020881
+[1] 0.01045917
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.00497549
+[1] 0.002616089
+[1] 0.001883365
+[1] 0.001605029
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853712_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.009648071
+[1] 0.01134888
+[1] 0.0117619
+[1] 0.01157703
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.004390326
+[1] 0.002209737
+[1] 0.001500401
+[1] 0.001211995
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853713_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.007724277
+[1] 0.009146034
+[1] 0.009739104
+[1] 0.009941009
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.007459698
+[1] 0.004002966
+[1] 0.002701286
+[1] 0.002110331
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853714_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.005087001
+[1] 0.003347259
+[1] 0.004616589
+[1] 0.005191547
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.007510288
+[1] 0.004081219
+[1] 0.002754871
+[1] 0.002149404
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853715_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.009397129
+[1] 0.01047257
+[1] 0.01076487
+[1] 0.0109724
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006148107
+[1] 0.003364743
+[1] 0.002367467
+[1] 0.001927307
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853716_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.00845332
+[1] 0.01135817
+[1] 0.01212787
+[1] 0.01274982
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.004911195
+[1] 0.002605307
+[1] 0.001822744
+[1] 0.001481499
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853717_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.009434763
+[1] 0.01172514
+[1] 0.0121175
+[1] 0.01207352
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.006902258
+[1] 0.004542084
+[1] 0.003774459
+[1] 0.003401362
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853718_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01052327
+[1] 0.01173168
+[1] 0.01168279
+[1] 0.01136599
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.00568053
+[1] 0.004244078
+[1] 0.003767509
+[1] 0.003491428
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853719_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.009218763
+[1] 0.009520472
+[1] 0.009357034
+[1] 0.00890188
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.003329377
+[1] 0.001313163
+[1] 0.001605009
+[1] 0.001637605
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853720_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.0159834
+[1] 0.01549076
+[1] 0.01457555
+[1] 0.01348434
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.003122821
+[1] 0.001476948
+[1] 0.001263862
+[1] 0.001267264
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853721_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01420661
+[1] 0.01202506
+[1] 0.01105727
+[1] 0.0103509
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.007053971
+[1] 0.003451885
+[1] 0.002110237
+[1] 0.001535871
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853722_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01453076
+[1] 0.01254975
+[1] 0.01149976
+[1] 0.0107026
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.004185581
+[1] 0.00177151
+[1] 0.001166622
+[1] 0.001269826
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853723_1"
+[1] "Fitting EM beta mixture to type1 probes"
+[1] Inf
+[1] 0.01316312
+[1] 0.01203007
+[1] 0.01146121
+[1] 0.01089428
+[1] "Done"
+[1] "Fitting EM beta mixture to type2 probes"
+[1] Inf
+[1] 0.005241756
+[1] 0.002198631
+[1] 0.001299322
+[1] 0.001361131
+[1] "Done"
+[1] "Start normalising type 2 probes"
+[1] "Finished for sample GSM3853724_1"
+NULL
+[[1]]
+NULL
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[[11]]
+NULL
+
+[[12]]
+NULL
+
+[[13]]
+NULL
+
+[[14]]
+NULL
+
+[[15]]
+NULL
+
+[[16]]
+NULL
+
+[[17]]
+NULL
+
+[[18]]
+NULL
+
+[[19]]
+NULL
+
+[[20]]
+NULL
+
+[[21]]
+NULL
+
+[[22]]
+NULL
+
+[[23]]
+NULL
+
+[[24]]
+NULL
+
+[[25]]
+NULL
+
+[[26]]
+NULL
+
+[[27]]
+NULL
+
+[[28]]
+NULL
+
+[[29]]
+NULL
+
+[[30]]
+NULL
+
+[[31]]
+NULL
+
+[[32]]
+NULL
+
+[[33]]
+NULL
+
+[[34]]
+NULL
+
+[[35]]
+NULL
+
+[[36]]
+NULL
+
+[[37]]
+NULL
+
+[[38]]
+NULL
+
+[[39]]
+NULL
+
+[[40]]
+NULL
+
+[[41]]
+NULL
+
+[[42]]
+NULL
+
+[[43]]
+NULL
+
+[[44]]
+NULL
+
+[[45]]
+NULL
+
+[[46]]
+NULL
+
+[[47]]
+NULL
+
+[[48]]
+NULL
+
+[[49]]
+NULL
+
+[[50]]
+NULL
+
+[1] "PROCESSAMENTO FINALIZADO"
+Time difference of 13.52136 mins
