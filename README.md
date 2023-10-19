@@ -18,4 +18,23 @@ exit;
 ps -ef | grep mysqld # then kill all processes on the list
 
 sudo systemctl start mariadb
-##docker run --name mariadbtest -e MYSQL_ROOT_PASSWORD=mypass -p 3306:3306 -d docker.io/library/mariadb:10.3
+
+
+docker network create epigenica
+docker rm epigenica_mariadb
+
+docker run --detach --network epigenica  -v /home/thiago/workspaces/epigenica/epdb:/var/lib/mysql --name  epigenica_mariadb2 --env MARIADB_USER=admin --env MARIADB_PASSWORD=admin --env MARIADB_ROOT_PASSWORD=root mariadb:10.11 
+
+
+docker run -it --network epigenica --rm mariadb:10.11 mysql -hepigenica_mariadb2 -uroot -p
+
+set global max_allowed_packet=100000000;
+
+# Exportar backup
+docker exec epigenica_mariadb mysqldump --user root betas > /home/thiago/workspaces/epigenica/data/betas_db_bkp.sql
+
+# Importar 
+# NOTE DB betas precisa ter sido criado já
+docker exec epigenica_mariadb mysql --user root betas < /home/thiago/workspaces/epigenica/data/betas_db_bkp.sql
+
+
