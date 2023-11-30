@@ -4,9 +4,6 @@ library(openssl)
 library(dplyr)
 library(tidyr)
 library(data.table)
-# NÃO existe gerencia de conexão pra minimizar aberturas.
-# TODO
-# Criar função inserir participante
 
 con <- NULL
 isBatch <- FALSE
@@ -69,7 +66,40 @@ print_dataset_counts <- function(){
   
 }
 
+create_table <- function( dataset ){
+  #"create table Pessoa_Sonda_${GEOID} (id_pessoa SMALLINT UNSIGNED,
+  #      id_sonda MEDIUMINT UNSIGNED, norm_beta_val MEDIUMINT UNSIGNED );"
+  con <- get_connection()
+  stm <- paste0("SELECT EXISTS (
+    SELECT TABLE_NAME
+    FROM information_schema.TABLES
+    WHERE
+    TABLE_NAME = 'Pessoa_Sonda_",
+    dataset, 
+    "');" )
+  res <- dbSendQuery(con, stm)
+  resDf <- dbFetch(res)
+  dbClearResult(res)
 
+  names(resDf) <- "EXISTS"
+  
+  
+
+  
+  if( resDf$EXISTS[1] == 0){
+    print(paste0("Creating table for ", dataset))
+    stm <- paste0("Create table Pessoa_Sonda_",
+                  dataset, " (id_pessoa SMALLINT UNSIGNED,
+                   id_sonda MEDIUMINT UNSIGNED, 
+                  norm_beta_val MEDIUMINT UNSIGNED );" )
+    res <- dbSendQuery(con, stm)
+    dbClearResult(res)
+  }else{
+    print(paste0("Table for ", dataset, " already exists"))
+  }
+
+  close_connection(con)
+}
 get_full_pessoas_full_meta <- function(  id_dataset ){
   # browser()
   con <- get_connection()
@@ -196,16 +226,25 @@ get_pessoas_id <- function( id_dataset ){
   #select * from Pessoa Left Join Pessoa_MetaDado on Pessoa.id = Pessoa_MetaDado.id_pessoa Limit 3 Offset 3;
   con <- get_connection()
   
-  # NOTA: Mais facil limitar depois de fazer o pivot dos dados...
-  stm <- paste0("SELECT DISTINCT
+  if(!is.null(id_dataset)){
+
+    stm <- paste0("SELECT DISTINCT
                   Pessoa.id,
                   Pessoa.geoid
                 FROM Pessoa 
-                LEFT JOIN Pessoa_MetaDado 
-                ON Pessoa.id = Pessoa_MetaDado.id_pessoa
                 WHERE Pessoa.id_dataset = ? ORDER BY Pessoa.id;")
-  res <- dbSendQuery(con, stm, params=list(id_dataset))
-  resDf <- dbFetch(res)
+    res <- dbSendQuery(con, stm, params=list(id_dataset))
+    resDf <- dbFetch(res)
+  }else{
+
+    stm <- paste0("SELECT DISTINCT
+                  Pessoa.id,
+                  Pessoa.geoid
+                FROM Pessoa")
+    res <- dbSendQuery(con, stm)
+    resDf <- dbFetch(res)
+  }
+
   dbClearResult(res)
   
   close_connection(con)
@@ -633,6 +672,32 @@ add_pessoa <- function(platform, id_dataset, dataset_desc, id, red_idat, fname_r
   return(iid)
 }
 
+add_metadados_single <- function(sample_id, key, value){
+  con <- get_connection()
+
+  stm <- "SELECT * FROM Pessoa_MetaDado WHERE id_pessoa = ? AND id_metadado = ?;"
+  res<- dbSendStatement(con, stm, params=list(sample_id, key))
+  resDf <- dbFetch(res)
+  dbClearResult(res)
+  
+  if( is.null(resDf) || nrow(resDf) == 0){
+    stm <- paste0('INSERT INTO ', 
+                  'Pessoa_MetaDado(id_pessoa, id_metadado, val)',
+                  ' VALUES (?,?,?);' )
+    
+    res <- dbSendStatement(con, stm, params=list(sample_id, key, value))  
+  }else{
+    stm <- paste0('UPDATE Pessoa_MetaDado ', 
+                  'SET val=? ',
+                  'WHERE id_pessoa=? AND id_metadado=?;' )
+    
+    res <- dbSendStatement(con, stm, params=list(value, sample_id, key ))  
+  }
+
+  dbClearResult(res)
+  
+  close_connection(con)
+}
 
 add_metadados <- function(sample_id, meta_df){
   
@@ -827,6 +892,9 @@ add_betas <- function( dataset_id, pessoa_id, pessoa_sondas, betas, betas_norm )
 }
 
 
+
+
+
 get_betas_sondas <- function( dataset_list, sondasDf,  normalized=T ){
   resDt <- NULL
   id_sondas <- sondasDf$id
@@ -983,40 +1051,3 @@ get_betas <- function( id_pessoa, normalized=T ){
   dbClearResult(res)
   dbDisconnect(con)
 }
-
-# 
-# get_betas_sonda <- function( id_sonda, lista_pessoas, normalized=T ){
-#   if( isBatch == FALSE ){
-#     con <- get_connection()
-#   }
-#   stm <- paste0("SELECT 
-#                   id_pessoa, norm_beta_val
-#                 FROM Pessoa_Sonda 
-#                 WHERE id_sonda = ?;")
-#   
-#   res <- dbSendQuery(con, stm,
-#                      params=list(id_sonda))
-#                        
-#   resDf <- dbFetch(res)
-#   dbClearResult(res)
-#   dbDisconnect(con)
-#   
-#   if( length(which(duplicated(resDf$id_pessoa)) ) >0){
-#     resDf <- resDf %>%
-#       slice(-which(duplicated(resDf$id_pessoa)))  
-#   }
-#   
-#   
-#   return(resDf)
-# }
-# 
-# 
-# 
-
-
-
-
-
-
-
-# 

@@ -26,7 +26,7 @@
 #	 # mysql --user="root" --password="root" --database="betas" --execute="ALTER TABLE Pessoa_Sonda_${GEOID} ADD INDEX (id_sonda);"
 #done
 
-for I in {21..40}
+for I in {1..40}
 do
 
     let "S = I * 50 +1"

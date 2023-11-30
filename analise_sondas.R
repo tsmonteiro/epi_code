@@ -15,6 +15,17 @@ usable_clocks <- suppressMessages(availableClock())
 data(list = "DunedinPACE", envir = environment())
 dunedinProbes <- names(gold_standard_means)
 
+
+data(list = "LuA2019", envir = environment())
+for(i in seq(2, nrow(coefs))){
+  dunedinProbes <- append(dunedinProbes, coefs$Probe[i])
+}
+
+data(list = "HorvathS2018", envir = environment())
+for(i in seq(2, nrow(coefs))){
+  dunedinProbes <- append(dunedinProbes, coefs$Probe[i])
+}
+
 # SMOKING <- Hypo is better
 dunedinProbes <- append(dunedinProbes, "cg05575921")
 dunedinProbes <- append(dunedinProbes, "cg03636183")
@@ -145,30 +156,31 @@ listaSondas <- get_sondas()
 dunedinBaseSondas <- listaSondas %>%
   filter(name_sonda %in% dunedinProbes) 
 
-#TODO TESTAR AQUI DE NOVO
+#ATIVAR Pra gerar os arquivos
+
 incCpgs <- c()
 datasets <- get_dataset_list()
 
- 
-  mclapply(seq(1, nrow(datasets)), function(i){
-    betas <- get_betas_sondas( datasets$id[i], dunedinBaseSondas,  normalized=T )
-    save("betas", file=paste0("dados/betas_", datasets$id[i], ".rda"))
- }, mc.cores = 3)
- #  
- betasTmp <- NULL
- for(i in seq(1, nrow(datasets))){
-   load(paste0("dados/betas_", datasets$id[i], ".rda"))
-   if(i == 1){
-     betasTmp <- betas
-   }else{
-     betasTmp <- rbind(betasTmp, betas)
-   }
- }
+
+ mclapply(seq(1, nrow(datasets)), function(i){
+   betas <- get_betas_sondas( datasets$id[i], dunedinBaseSondas,  normalized=T )
+   save("betas", file=paste0("dados/betas_", datasets$id[i], ".rda"))
+}, mc.cores = 3)
+#
+betasTmp <- NULL
+for(i in seq(1, nrow(datasets))){
+  load(paste0("dados/betas_", datasets$id[i], ".rda"))
+  if(i == 1){
+    betasTmp <- betas
+  }else{
+    betasTmp <- rbind(betasTmp, betas)
+  }
+}
 
 
- betas <- betasTmp
- rm(betasTmp)
- save("betas", file=paste0("dados/betas_dunedin.rda"))
+betas <- betasTmp
+rm(betasTmp)
+save("betas", file=paste0("dados/betas_dunedin.rda"))
 load( file=paste0("dados/betas_dunedin.rda"))
 
 pessoasBeta <- rownames(betas)
@@ -179,7 +191,40 @@ incPids <- intersect(pessoasBeta, fullPessoasDf$GEOID_PESSOA)
 
 
 incPessoas <- fullPessoasDf %>% filter(GEOID_PESSOA %in% incPids)
+
+availableClock()
 dunedin <- methyAge(t(betas), clock='DunedinPACE', do_plot = F, inputation = FALSE )
+tl <- methyAge(t(betas), clock='LuA2019', do_plot = F, inputation = FALSE )
+horv <- methyAge(t(betas), clock='HorvathS2018', do_plot = F, inputation = FALSE )
+
+
+source("data_funcs.R")
+
+for(i in seq(1, nrow(tl)) ){
+  idPessoa <- incPessoas %>% 
+    filter(GEOID_PESSOA == tl$Sample[i]) %>%
+    pull(ID_PESSOA)
+  
+  add_metadados_single(idPessoa, "TELOMERE", tl$mAge[i])
+}
+
+
+for(i in seq(1, nrow(horv)) ){
+  idPessoa <- incPessoas %>% 
+    filter(GEOID_PESSOA == horv$Sample[i]) %>%
+    pull(ID_PESSOA)
+  
+  add_metadados_single(idPessoa, "HORVATH", horv$mAge[i])
+}
+
+
+for(i in seq(1, nrow(dunedin)) ){
+  idPessoa <- incPessoas %>% 
+    filter(GEOID_PESSOA == dunedin$Sample[i]) %>%
+    pull(ID_PESSOA)
+  
+  add_metadados_single(idPessoa, "DUNEDIN", dunedin$mAge[i])
+}
 
 
 
